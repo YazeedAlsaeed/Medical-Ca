@@ -1,6 +1,6 @@
 # medical_app
 
-Flutter medical app project for fun
+Flutter medical app project
 
 ## Getting Started
 
